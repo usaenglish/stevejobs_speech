@@ -1,0 +1,5 @@
+stevejobs_speech
+================
+This is not just a computer language, this is natural language, English. 
+If you want to improve your English skill, recitation can be one of the most traditional ways to improve your speaking, listening, and writing. This is Steve Jobs Stanford Speech, a segmented speech, it is easy to use. 
+And his speech's right is reserved by Stanford, CA 94305.
